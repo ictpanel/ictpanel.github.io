@@ -326,7 +326,7 @@ body {
 
 /* ============== Footer section ===================== */
 #footer {
-  background: linear-gradient(180deg, #363643 0%, #110E17 100%); }
+  background: linear-gradient(180deg, #fff 0%, #fff 100%); }
   #footer .culumn-1 .footer-description {
     max-width: 500px; }
     #footer .culumn-1 .footer-description .section-description {
